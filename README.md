@@ -1,7 +1,6 @@
-
-![Static Badge](https://img.shields.io/badge/Linear-Regression-blue?style=for-the-badge&labelColor=%23000080&color=%237FFFD4)  
-![Static Badge](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&labelColor=%237FFFD4&color=%23FF3D00)
-![Static Badge](https://img.shields.io/badge/tensorflow-keras-orange?style=for-the-badge&labelColor=%23000080&color=%23FF3D00)
+| language | method | metrics | 
+| :------: | :----: | :-----: |  
+| [![Static Badge](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&labelColor=%237FFFD4&color=%23FF3D00)] |[![Static Badge](https://img.shields.io/badge/tensorflow-keras-orange?style=for-the-badge&labelColor=%23000080&color=%23FF3D00)] | [![Static Badge](https://img.shields.io/badge/scikit-learn-blue?style=for-the-badge&logo=scikitlearn&labelColor=7FFFD4&color=000080)] |
 
 # Housing Price Predictions
 
